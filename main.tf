@@ -4,6 +4,7 @@ provider "aws" {
 resource "aws_instance" "instance-1" {
         ami="ami-08e4e35cccc6189f4"
         instance_type="t2.micro"
+	key_name="ansible"
 	tags={
 		Name="Ansible"
 	}
