@@ -1,4 +1,0 @@
-resource "aws_key_pair" ansible"{
-  key_name="ansible"
-  public_key="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCslRtljGRx3auf4zG+7sRWNTyxpaZ6c7yozWqUp8JJusmG4BKAY14Egt0bgKriGtx4hxLggtOuj3qyI2i1FLDMmGsS8jCqjhIPhxYItnzCekR98uvUi6FFz6IHALWYFu+5XmuQK4bp7Iv6ieos3adUSEhmxdUfgcmYuJJVwEE/ICaN3Ai9LC6RRWAm8ohlSkkG+nbjkSL9QAffdQILmJNmi8tHhHSQ7xYkyEizSmdnVjaGqhoHorO9is17nUDez+McQbfYjZlOkvX76SR3B7vTjAFwAcUF9j/xkK++BfUMlt3+eWJRoU9iJ4HgF0IwBoAGyN0RAHbC2UVx2Eqg/NM1 rsa-key-20220125"
-  }
